@@ -1,0 +1,28 @@
+Array
+(
+    [0] => Array
+        (
+            [Welcome] => Selamat datang
+        )
+
+    [1] => Array
+        (
+            [Hello] => Halo
+        )
+
+    [2] => Array
+        (
+            [thanks You] => 
+        )
+
+    [3] => Array
+        (
+            [asdsad] => asdsad
+        )
+
+    [4] => Array
+        (
+            [you] => anda
+        )
+
+)
